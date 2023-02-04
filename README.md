@@ -1,4 +1,5 @@
-### Hi there 👋
+### I am a Minecraft Developer with 2 years of experience
+### Java, JavaScript, Python, Skript and Lua
 
 <!--
 **asxv123/asxv123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
