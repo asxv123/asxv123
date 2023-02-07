@@ -1,5 +1,5 @@
 ### I am a Minecraft Developer with 2 years of experience
-### Java, JavaScript, Python, Skript and Lua
+### Java, JavaScript, Python, , Little C, Skript and Lua
 
 ### Current Project:
 ### Minecraft Logging Plugin
