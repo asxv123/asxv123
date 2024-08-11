@@ -2,7 +2,7 @@
 ### Java, JavaScript, Python, Skript and Lua
 
 ### Current Project:
-### Minecraft Logging Plugin
+### Minecraft Linking Plugin
 
 ### Discord:
 ### asxv
